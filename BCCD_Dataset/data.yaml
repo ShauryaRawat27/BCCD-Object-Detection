@@ -1,0 +1,7 @@
+names:
+- RBC
+- WBC
+- Platelets
+nc: 3
+train: /content/BCCD_Dataset/train/images
+val: /content/BCCD_Dataset/val/images
